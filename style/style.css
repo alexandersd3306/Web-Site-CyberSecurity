@@ -1,0 +1,305 @@
+body {
+    background: linear-gradient(#97CEDD, #88C5FA);
+    margin: 16px;
+}
+
+a {
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(138, 27, 242);
+}
+
+.txt {
+    display: inline;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.hr {
+    border: none;
+    background: linear-gradient(#02bdf6, #a2bed6);
+    height: 4px;
+}
+
+.xxz {
+    border: 3px solid black;
+    border-radius: 10px;
+    float: right;
+    list-style: none;
+}
+
+.cybertxt {
+    width: 25%;
+    height: 10px;
+    margin: 16px;
+    width: 30%;
+    margin-left: 33%;
+}
+
+.image2 {
+    margin-top: 10%;
+    width: 100%;
+    height: 200px;
+    filter: drop-shadow(5px 4px 15px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    transition: 1s;
+    margin-right: 10%;
+}
+
+.image4 {
+    margin-right: 30%;
+    margin-top: -5%;
+    width: 100%;
+    height: 200px;
+    filter: drop-shadow(5px 4px 15px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    transition: 1s;
+}
+
+.image3 {
+    margin-top: 40px;
+    width: 100%;
+    height: 200px;
+    filter: drop-shadow(5px 4px 15px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    transition: 1s;
+}
+
+.image1 {
+    margin-top: -30px;
+    width: 100%;
+    height: 200px;
+    filter: drop-shadow(5px 4px 15px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    transition: 1s;
+}
+
+.image1:hover {
+    transform: scale(1.2);
+}
+
+.image2:hover {
+    transform: scale(1.2);
+}
+
+.image3:hover {
+    transform: scale(1.2);
+}
+
+.image4:hover {
+    transform: scale(1.2);
+}
+
+.right {
+    margin: 0px;
+    float: right;
+    height: 20%;
+}
+
+.left {
+    margin: 10px;
+    float: left;
+    height: 20%s;
+}
+
+.cybertxt1 {
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+
+.cybertxt2 {
+    padding-bottom: 10%;
+}
+
+.cybertxt3 {
+    padding-bottom: 10%;
+}
+
+footer {
+    bottom: 0;
+    margin-bottom: 8px;
+    position: absolute;
+    width: 97%;
+}
+
+.hr1 {
+    border: none;
+    background: linear-gradient(#02bdf6, #a2bed6);
+    height: 4px;
+    display: block;
+}
+
+.xxx {
+    float: left;
+    display: inline;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+/*************************/
+
+
+/*************************/
+
+
+/*************************/
+
+
+/*************************/
+
+
+/*************************/
+
+.sect1 {
+    text-align: justify;
+}
+
+.h1type {
+    text-align: center;
+    font-size: 25px;
+}
+
+.list2 {
+    width: 45%;
+    float: left;
+    padding: 0px;
+}
+
+.list1 {
+    margin-left: 5%;
+    width: 43%;
+    float: right;
+    margin-left: 80px;
+}
+
+.sr {
+    margin-top: 11%;
+    display: block;
+}
+
+.imma1 {
+    margin: 0px;
+    width: 30%;
+    height: 270px;
+    float: left
+}
+
+.imma2 {
+    margin: 0px;
+    width: 30%;
+    height: 270px;
+    float: right;
+}
+
+.imma3 {
+    width: 30%;
+    height: 270px;
+    margin-left: 35.5%;
+}
+
+.type1 {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(5px 4px 15px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    margin-right: 4.5%;
+    margin-left: 0%;
+    transition: 1s;
+}
+
+.type2 {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(5px 4px 15px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    margin-left: 4%;
+    transition: 1s;
+}
+
+.type3 {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(5px 4px 15px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    transition: 1s;
+}
+
+.type1:hover {
+    transform: scale(1.1);
+}
+
+.type2:hover {
+    transform: scale(1.1);
+}
+
+.type3:hover {
+    transform: scale(1.1);
+}
+
+.spis {
+    float: right;
+    width: 50%;
+    display: block;
+    background-color: rgb(7, 106, 168);
+}
+
+.Top {
+    float: left;
+}
+
+.fot {
+    background-color: aqua;
+    width: 20%;
+    height: 20%;
+}
+
+.rul {
+    color: black;
+    background-color: #214c59;
+}
+
+.hd {
+    background-color: #90b5c1;
+}
+
+.bid {
+    background-color: aquamarine;
+}
+
+.video {
+    width: 100%;
+    height: 81%;
+}
+
+.Auto {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+
+p.msgg {
+    border: 2px solid #d17fea;
+    border-radius: 6px;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    width: 15%;
+}
